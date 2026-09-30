@@ -5,7 +5,7 @@
 Сборка:
 
 ```bash
-cd ~/practices
+cd ~/practices_ws
 colcon build --symlink-install
 source install/setup.zsh
 ```
